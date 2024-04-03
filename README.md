@@ -18,6 +18,6 @@ EMS is a web application designed to streamline and secure the entrance manageme
 
 ## Contributors:
 
-[Abdisa Alemu](https://github.com/abdisaDev) --- ATE/2603/14<br>
-[Kalkidan Tadesse](https://github.com/kaltg) --- ATE/0652/14 <br>
-[Peter Kinfe](https://github.com/p3ter-dev) --- ATE/7749/15
+-- [Abdisa Alemu](https://github.com/abdisaDev) --- ATE/2603/14<br>
+-- [Kalkidan Tadesse](https://github.com/kaltg) --- ATE/0652/14 <br>
+-- [Peter Kinfe](https://github.com/p3ter-dev) --- ATE/7749/15
