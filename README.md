@@ -16,7 +16,7 @@ EMS is a web application designed to streamline and secure the entrance manageme
 
 ##Contributors:
 
-[Abdisa Alemu](https://github.com/abdisaDev)
+[Abdisa Alemu](https://github.com/abdisaDev)<br>
 Amanuel 
 Kalkidan Tadesse
 Peter Kinfe
