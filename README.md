@@ -16,9 +16,6 @@ EMS is a web application designed to streamline and secure the entrance manageme
 ### Access Control: 
   -- Integrate with access control systems (e.g., badge readers) to grant authorized entry to registered visitors.
 
-### Reporting and Analytics: 
-  -- Generate reports on visitor traffic, access logs, and other data for better decision-making.
-
 ## Contributors:
 
 [Abdisa Alemu](https://github.com/abdisaDev) --- ATE/2603/14<br>
